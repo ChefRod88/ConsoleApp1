@@ -12,3 +12,4 @@ C:\Users\VDI-User\RiderProjects\ConsoleApp1\CsharpFundamentals\obj\Debug\net9.0\
 C:\Users\VDI-User\RiderProjects\ConsoleApp1\CsharpFundamentals\obj\Debug\net9.0\CsharpFundamentals.pdb
 C:\Users\VDI-User\RiderProjects\ConsoleApp1\CsharpFundamentals\obj\Debug\net9.0\CsharpFundamentals.genruntimeconfig.cache
 C:\Users\VDI-User\RiderProjects\ConsoleApp1\CsharpFundamentals\obj\Debug\net9.0\ref\CsharpFundamentals.dll
+C:\Users\VDI-User\RiderProjects\ConsoleApp1\CsharpFundamentals\obj\Debug\net9.0\CsharpFundamentals.sourcelink.json
